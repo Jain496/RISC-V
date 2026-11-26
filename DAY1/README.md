@@ -1,6 +1,6 @@
 # Day 1 – RISC-V Architecture Basics
 
-Notes and lab work from Day 1 of the RISC-V workshop. Everything was done on an Ubuntu VM (Oracle VirtualBox) with the `riscv64-unknown-elf-gcc` toolchain, `objdump` and the `spike` simulator.
+Lab work from Day 1 of the RISC-V workshop. Everything was done on an Ubuntu VM (Oracle VirtualBox) with the `riscv64-unknown-elf-gcc` toolchain, `objdump` and the `spike` simulator.
 
 ## 1. Introduction
 
